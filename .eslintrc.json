@@ -6,6 +6,7 @@
      "jest": true
   },
   "rules": {
+    "no-param-reassign": "off",
     "no-mixed-spaces-and-tabs": "off",
     "no-tabs": "off",
     "no-unused-vars": "off",
